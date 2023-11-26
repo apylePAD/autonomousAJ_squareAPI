@@ -1,0 +1,10 @@
+autonomousAJ_squareAPI/data_files/
+.cache
+custom_venv.txt
+.DS_Store
+.env
+*.log
+*.pyc
+*.sqlite
+__pycache__/
+venvs/
